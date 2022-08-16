@@ -30,4 +30,6 @@ hr {
 .header img {
   float: right;
   background: black;
+  height: 200px;
+  width: 200px;
   }
