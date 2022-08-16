@@ -33,9 +33,3 @@ hr {
   height: 25%;
   width: 25%;
   }
-
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
-}
