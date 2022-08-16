@@ -1,0 +1,33 @@
+body {
+  background-color: lightgreen;
+  color: black;
+  font-family: serif;
+}
+
+h3 {
+  margin: 15px;
+  height: 10px;
+}
+
+.name_label {
+  color: white;
+  background-color: black;
+  padding: 10px;
+}
+
+.contact_info {
+  line-height: 20px;
+}
+
+hr {
+  border-top: ;
+}
+
+.header {
+  padding-left: 10px;
+}
+
+.header img {
+  float: right;
+  background: black;
+  }
